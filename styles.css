@@ -902,8 +902,8 @@ i.fa-arrow-circle-up {
 	outline: none;
 }
 
-#input-one:focus::-webkit-input-placeholder, #input-two:focus::-webkit-input-placeholder, #input-three:focus::-webkit-input-placeholder
-#input-one-2:focus::-webkit-input-placeholder, #input-two-2:focus::-webkit-input-placeholder, #input-three-2:focus::-webkit-input-placeholder
+#input-one:focus::-webkit-input-placeholder, #input-two:focus::-webkit-input-placeholder, #input-three:focus::-webkit-input-placeholder,
+#input-one-2:focus::-webkit-input-placeholder, #input-two-2:focus::-webkit-input-placeholder, #input-three-2:focus::-webkit-input-placeholder,
 #input-one-3:focus::-webkit-input-placeholder, #input-two-3:focus::-webkit-input-placeholder, #input-three-3:focus::-webkit-input-placeholder,
 #input-one-4:focus::-webkit-input-placeholder, #input-two-4:focus::-webkit-input-placeholder, #input-three-4:focus::-webkit-input-placeholder {
 	color: transparent; 
@@ -1750,9 +1750,6 @@ a.item-button {
 	#upbutton {
 		right: 10px;
 		bottom: 28px;
-	}
-	i.fa-arrow-circle-up {
-		font-size: 20px;
 	}
 	.ant-carousel {
 		width: 280px;
